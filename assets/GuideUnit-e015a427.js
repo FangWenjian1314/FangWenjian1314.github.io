@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{o as t,h as _,p as s,q as c,l as d}from"./index-b6327078.js";const a={},n=e=>(s("data-v-3151d716"),e=e(),c(),e),p=n(()=>d("h2",null,"指导单位",-1)),r=[p];function i(e,l){return t(),_("div",null,r)}const h=o(a,[["render",i],["__scopeId","data-v-3151d716"]]);export{h as default};
