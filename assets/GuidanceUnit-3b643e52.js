@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o,h as t,l as c}from"./index-b6327078.js";const n={},s=c("h2",null,"指导单位",-1),r=[s];function _(a,i){return o(),t("div",null,r)}const f=e(n,[["render",_]]);export{f as default};
