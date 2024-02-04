@@ -1,0 +1,1 @@
+import{c as s}from"./base-466dee4e.js";import{J as o,z as t,u as r}from"./index-b6327078.js";const a=["","default","small","large"],c=s({type:String,values:a,required:!1}),i=Symbol("size"),l=()=>{const e=o(i,{});return t(()=>r(e.size)||"")};export{i as S,l as a,c as u};

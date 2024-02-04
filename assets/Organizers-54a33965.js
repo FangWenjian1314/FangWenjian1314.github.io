@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{o as c,h as s,p as _,q as t,l as a}from"./index-b6327078.js";const n={},r=e=>(_("data-v-79640a1c"),e=e(),t(),e),d=r(()=>a("h2",null,"主办单位",-1)),p=[d];function i(e,l){return c(),s("div",null,p)}const h=o(n,[["render",i],["__scopeId","data-v-79640a1c"]]);export{h as default};
