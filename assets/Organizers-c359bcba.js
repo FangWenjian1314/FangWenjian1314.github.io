@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o,h as t,l as r}from"./index-1899a4d4.js";const s={},c=r("h2",null,"主办单位",-1),n=[c];function _(a,l){return o(),t("div",null,n)}const f=e(s,[["render",_]]);export{f as default};
