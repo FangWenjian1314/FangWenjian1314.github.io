@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{g as t,o as c,h as _,i as s}from"./index-1899a4d4.js";const n={},a={class:"ContactUs"};function r(i,f){const e=t("router-view");return c(),_("div",a,[s(e)])}const l=o(n,[["render",r],["__scopeId","data-v-fc737fac"]]);export{l as default};
