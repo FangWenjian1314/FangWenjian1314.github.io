@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{g as t,o as n,h as s,i as _}from"./index-1899a4d4.js";const c={},r={class:"IndustryDevelopment"};function a(d,p){const e=t("RouterView");return n(),s("div",r,[_(e)])}const m=o(c,[["render",a],["__scopeId","data-v-c34a27bb"]]);export{m as default};

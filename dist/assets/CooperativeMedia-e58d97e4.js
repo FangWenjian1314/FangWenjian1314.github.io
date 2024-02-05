@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o,h as t,l as c}from"./index-1899a4d4.js";const r={},s=c("p",null,"合作媒体",-1),n=[s];function a(_,i){return o(),t("div",null,n)}const f=e(r,[["render",a]]);export{f as default};

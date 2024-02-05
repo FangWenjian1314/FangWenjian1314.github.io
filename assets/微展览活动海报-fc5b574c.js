@@ -1,0 +1,1 @@
+const r=""+new URL("“光影有爱”无障碍电影展映_微展览活动海报-2d16ecc4.png",import.meta.url).href,t=""+new URL("观影嘉宾陆续入场-17752448.png",import.meta.url).href,e=""+new URL("活动现场嘉宾发言及手语老师同步翻译-7d0eada2.png",import.meta.url).href,o=""+new URL("三家主办机构签署了战略合作协议-c4818f32.png",import.meta.url).href,p=""+new URL("微展览活动海报-0850f0f7.png",import.meta.url).href;export{r as _,t as a,e as b,o as c,p as d};

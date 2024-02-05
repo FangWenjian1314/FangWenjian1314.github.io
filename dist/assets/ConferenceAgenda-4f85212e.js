@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o,h as n,l as t}from"./index-1899a4d4.js";const c={},r=t("h2",null,"会议议程",-1),s=[r];function _(a,l){return o(),n("div",null,s)}const i=e(c,[["render",_]]);export{i as default};
